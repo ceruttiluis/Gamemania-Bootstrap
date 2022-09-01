@@ -7,9 +7,9 @@ div.container{
     row-gap: 10px;
     position: absolute;
     width: 100%;
-    height: 2000px;
+    height: 2100px;
     font-family: sans-serif;
-    min-height: 100%;
+    min-height: 2100px;
     min-width: 100%;
 }
     div.menu{
@@ -206,7 +206,7 @@ div.container{
     div.rodapé{
         position: absolute;
         width: 1440px;
-        height: 600px;
+        height: 580px;
         left: 0px;
         top: 1508px;
     }
